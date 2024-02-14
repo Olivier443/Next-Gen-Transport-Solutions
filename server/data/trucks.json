@@ -1,0 +1,15 @@
+[{
+  "CarTransporter": "Car Transporter",
+  "CementTruck": "Cement Truck",
+  "Reefers": "Reefer",
+  "CraneTrucks": "Crane Truck",
+  "FlatbedTruck": "Flatbed Truck",
+  "LivestockTruck": "Livestock Truck",
+  "LoggingTruck": "Logging Truck",
+  "Tanker": "Tanker",
+  "DumpTruck": "Dump Truck",
+  "SemiTrailerTruck": "Semi-trailer Truck",
+  "ContainerTruck": "Container Truck",
+  "Van": "Van",
+  "StraightTruck": "Straight Truck"
+}]

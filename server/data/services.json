@@ -1,0 +1,14 @@
+[{
+  "LTL": "LTL - Less-than-truckload",
+  "FTL": "FTL - Full truckload",
+  "Expedited": "Expedited",
+  "Appointment": "Delivery on Appointment",
+  "Tailgate": "Tailgate available",
+  "Temperature": "Temperature Controlled",
+  "Team": "Team Drivers",
+  "CrossDocking": "Cross Docking",
+  "Construction": "Construction sites delivery",
+  "Bonded": "Bonded",
+  "Pharmaceutical":"Pharmaceutical",
+  "DangerousGoods": "Dangerous Goods"
+}]
